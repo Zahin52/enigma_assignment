@@ -1,4 +1,4 @@
-#MD Zahi Uddin
+#MD Zahin Uddin
 #ID:17701052
 #initaial rotor setting
 initial_rotor1 = [['a','e'], ['b', 'k'], ['c','m'],['d', 'f'],['e', 'l'],['f', 'g'],['g', 'd'],['h', 'q'],['i', 'v'],['j', 'z'],['k', 'n'],['l', 't'],['m', 'o'],['n', 'w'],['o', 'y'],['p', 'h'],['q', 'x'],['r', 'u'],['s', 's'],['t', 'p'],['u', 'a'],['v', 'i'],['w', 'b'],['x', 'r'],['y', 'c'],['z', 'j']]
